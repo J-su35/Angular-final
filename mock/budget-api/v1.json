@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "title": "Gaming Laptop",
+      "amount": 3,
+      "price": 3200,
+      "contactMobileNo": "0812345678",
+      "status": "REJECTED",
+      "id": 1
+    },
+    {
+      "title": "Desktop Tower",
+      "amount": 7,
+      "price": 2500,
+      "contactMobileNo": "0823456789",
+      "status": "REJECTED",
+      "id": 2
+    },
+    {
+      "title": "Gaming Mouse",
+      "amount": 1,
+      "price": 600,
+      "contactMobileNo": "0856789012",
+      "status": "APPROVED",
+      "id": 5
+    },
+    {
+      "title": "Motherboard",
+      "amount": 8,
+      "price": 2300,
+      "contactMobileNo": "0878901234",
+      "status": "REJECTED",
+      "id": 7
+    },
+    {
+      "title": "CPU Cooler",
+      "amount": 5,
+      "price": 1200,
+      "contactMobileNo": "0889012345",
+      "status": "APPROVED",
+      "id": 8
+    },
+    {
+      "title": "SSD Storage",
+      "amount": 10,
+      "price": 500,
+      "contactMobileNo": "0890123456",
+      "status": "APPROVED",
+      "id": 9
+    },
+    {
+      "title": "Gaming Chair",
+      "amount": 9,
+      "price": 1400,
+      "contactMobileNo": "0891234567",
+      "status": "REJECTED",
+      "id": 10
+    },
+    {
+      "title": "Add new",
+      "contactMobileNo": "0655555555",
+      "amount": 100,
+      "price": 100,
+      "status": "PENDING",
+      "id": 11
+    },
+    {
+      "title": "Add new edited",
+      "contactMobileNo": "0651234567",
+      "amount": 100,
+      "price": 100,
+      "status": "PENDING",
+      "id": 12
+    }
+  ]
+}
